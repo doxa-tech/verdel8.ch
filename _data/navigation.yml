@@ -1,0 +1,10 @@
+- name: Accueil
+  link: /
+- name: Grande salle
+  link: /grandesalle
+- name: Cafétéria
+  link: /cafeteria 
+- name: Les services
+  link: /services
+- name: À propos / Contact
+  link: /about
