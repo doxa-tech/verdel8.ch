@@ -1,6 +1,7 @@
 ---
 title: Grande salle
 layout: default
+permalink: /grandesalle/
 ---
 
 La grande salle peut acceuillir 150 places assise.
