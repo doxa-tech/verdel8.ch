@@ -1,10 +1,10 @@
 - name: Accueil
   link: /
 - name: Grande salle
-  link: /grandesalle
+  link: /grandesalle.html
 - name: Cafétéria
-  link: /cafeteria 
+  link: /cafeteria .html
 - name: Les services
-  link: /services
+  link: /services.html
 - name: À propos / Contact
-  link: /about
+  link: /about.html
