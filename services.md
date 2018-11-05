@@ -1,6 +1,6 @@
 ---
+title: Services proposés
 layout: default
-title: Services proposés 
 ---
 
 Voici quelques service que nous vous proposons en extra.
