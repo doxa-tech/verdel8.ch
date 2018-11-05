@@ -13,9 +13,9 @@ Verdel 8 propose à la location les locaux de l'Eglise Evangélique de Bulle. Id
 -	1 cafétéria avec cuisine équipée, 50 places assises et espace avec petite scène + sonorisation
 -	1 bar avec snacks et boissons
 
-<div class="row2">
-  <div><img src="assets/images/cafet/DSC_7073.jpg"></div>
-  <div><img src="assets/images/grandesalle/DSC_7139.jpg"></div>
+<div class="row2 image-links">
+  <div><a href="cafeteria.html"><img src="assets/images/cafet/DSC_7073.jpg"></a></div>
+  <div><a href="grandesalle.html"><img src="assets/images/grandesalle/DSC_7139.jpg"></a></div>
 </div>
 
 ## Courts descriptifs (avec liens pour plus de détails):
@@ -23,12 +23,12 @@ Verdel 8 propose à la location les locaux de l'Eglise Evangélique de Bulle. Id
 ### Grande salle (150 places)
 La grande salle est sonorisée et des micros pour voix ou instruments de musique sont disponibles. Deux beamers assurent une projection optimale dans la salle. Un technicien peut assurer la sonorisation et la projection. Au fond de la salle, un espace pour les bébés est aménagé avec des jouets. Une cabine de traduction insonorisée est également à disposition.
 
-[> Plus de détails sur la grande salle](grandesalle)
+[> Plus de détails sur la grande salle](grandesalle.html)
 
 ### Cafétéria (50 places)
 La cafétéria permet de cuisiner et servir facilement 50 personnes et possède notamment un combi-steamer et un lave-vaisselle professionnel. Un coin lounge se trouve au fond de la cafétéria et possède des canapés où une dizaine de personnes peuvent s’installer confortablement. Un beamer est également à disposition.
 
-[> Plus de détail sur la cafétéria](cafeteria) 
+[> Plus de détail sur la cafétéria](cafeteria.html) 
 
 ### Bar
 Le bar vend des boissons rafraichissantes, des cafés et divers snacks. Dans le cas où cette prestation est souhaitée, une personne de Verdel 8 assurera le service et sera défrayée selon le salaire horaire ci-dessous.

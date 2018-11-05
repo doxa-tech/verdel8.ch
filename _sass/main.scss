@@ -17,6 +17,10 @@ nav {
     a {
       padding: 5px;
       vertical-align: bottom;
+
+      &.current {
+        font-weight: bold;
+      }
     }
   }
 }
@@ -52,6 +56,11 @@ div.container {
     flex: 1;
     padding: 20px;
   }
+}
+
+.image-links img:hover {
+  opacity: .8;
+  transition: .5s;
 }
 
 footer {
