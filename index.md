@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Location de salle pour événements à Bulle (Fribourg)
+layout: default
 ---
 
 ![](assets/images/logo-verdel8.png){: .center-image }
