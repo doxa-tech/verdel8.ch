@@ -25,7 +25,7 @@ La grande salle est sonorisée et des micros pour voix ou instruments de musique
 
 ### Cafétéria (50 places)
 
-Une cafétéria entièrement équipée permet de cuisiner et servir facilement 50 personnes et possède notamment un combi-steamer et un lave-vaisselle professionnel. Une petite scène se trouve au fond de la cafétéria.
+Une cafétéria entièrement équipée permet de cuisiner et servir facilement 50 personnes et possède notamment un combi-steamer et un lave-vaisselle professionnel. Une petite scène avec beamer et lumières se trouve au fond de la  cafétéria.
 
 [> Plus de détail sur la cafétéria](cafeteria.html)
 
@@ -33,10 +33,10 @@ Une cafétéria entièrement équipée permet de cuisiner et servir facilement 5
 
 Nos locaux sont situés dans le bâtiment violet au 1er étage à la route du Verdel 8, 1630 Bulle. Il est équipé d’un monte-charge. Un espace accueil est à disposition et peut ainsi être animé par votre personnel si nécessaire.
 
-Les possibilités de parking sont les suivantes : 
+Les possibilités de parking sont les suivantes :
 
-* Semaine dès 18h et weekends: parking gratuit juste en face du bâtiment avec une trentaine de places. 
-* Semaine avant 18h: parking du tennis gratuit avec une centaine de places à 500m du bâtiment. 
+* Semaine dès 18h et weekends: parking gratuit juste en face du bâtiment avec une trentaine de places.
+* Semaine avant 18h: parking du tennis gratuit avec une centaine de places à 500m du bâtiment.
 
 ## Prix
 
