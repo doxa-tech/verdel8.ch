@@ -3,22 +3,22 @@ layout: default
 title: Services proposés
 
 ---
-Voici quelques service que nous vous proposons en extra.
+Pour votre confort, nous vous proposons quelques autres services en plus de la location. 
 
 ## Sonorisation
 
-Qu'il s'agisse d'un groupe de musique ou d'un séminaire, nos techniciens sont a disposition pour installer et sonoriser votre événement.
+Qu'il s'agisse d'un groupe de musique ou d'un séminaire, nos techniciens sont à disposition pour installer et sonoriser votre événement.
 
-**Prix**: 50 CHF
+**Prix**: 25 CHF/h
 
 ## Mise en place
 
-Nous nous chargons de regarder avec vous la disposition qui vous conviendrait le mieux et mettons en place selon vos souhaits.
+Nous vous conseillons sur la disposition la plus adaptée à vos besoins et nous nous chargeons également de la mise en place.
 
-**Prix**: 50 CHF
+**Prix**: 25 CHF/h
 
 ## Nettoyage
 
-Eviter de faire des heures supplémentaire en fin de soirée. Notre équipe s'occupe de nettoyer pour vous.
+Evitez de faire des heures supplémentaires après votre événement. Notre équipe s'occupe de nettoyer pour vous.
 
-**Prix**: 50 CHF
+**Prix**: 25 CHF/h
