@@ -44,7 +44,7 @@ La location peut être sporadique ou régulière. Ci-dessous, les prix concernen
 
 <table border="1"><tbody><tr><th><b>Location </b></th><th><b>Jusqu’à 4 heures</b></th><th><b>1 jour</b></th></tr><tr><th><b>Grande salle</b></th><td>CHF 70.-</td><td>CHF 100.-</td></tr><tr><th><b>Installation technique</b></th><td>CHF 50.-</td><td>CHF 70.-</td></tr><tr><th><b>Cafétéria</b></th><td>CHF 70.-</td><td>CHF 100.-</td></tr><tr><th><b>Salaire horaire personnel* </b></th><td>CHF 25.-</td><td>CHF 25.-</td></tr></tbody></table>
 
-* minimum 2H pour la personne qui vous accueillera dans les locaux (présentation, tour des locaux) et qui se chargera également de les fermer.
+\*minimum 2H pour la personne qui vous accueillera dans les locaux (présentation, tour des locaux) et qui se chargera également de les fermer.
 
 ### N’hésitez pas à nous contacter pour plus détails sur l’équipement des salles ou pour tout autre demande d’information.
 
