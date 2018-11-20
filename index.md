@@ -47,5 +47,3 @@ La location peut être sporadique ou régulière. Ci-dessous, les prix concernen
 \*minimum 2H pour la personne qui vous accueillera dans les locaux (présentation, tour des locaux) et qui se chargera également de les fermer.
 
 ### N’hésitez pas à nous contacter pour plus détails sur l’équipement des salles ou pour tout autre demande d’information.
-
-Sévin Kocher : sevin.kocher at bullenetwork.ch
