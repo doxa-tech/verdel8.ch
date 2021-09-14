@@ -40,10 +40,6 @@ Les possibilités de parking sont les suivantes :
 
 ## Prix
 
-La location peut être sporadique ou régulière. Ci-dessous, les prix concernent la location sporadique. Pour les locations régulières, les prix sont plus avantageux. Merci de prendre contact avec nous pour ce genre de location.
-
-<table border="1"><tbody><tr><th><b>Location </b></th><th><b>Jusqu’à 4 heures</b></th><th><b>1 jour</b></th></tr><tr><th><b>Grande salle</b></th><td>CHF 100.-</td><td>CHF 150.-</td></tr><tr><th><b>Installation technique</b></th><td>CHF 50.-</td><td>CHF 100.-</td></tr><tr><th><b>Cafétéria</b></th><td>CHF 100.-</td><td>CHF 150.-</td></tr><tr><th><b>Salaire horaire personnel* </b></th><td>CHF 25.-</td><td>CHF 25.-</td></tr></tbody></table>
-
-\*minimum 2H pour la personne qui vous accueillera dans les locaux (présentation, tour des locaux) et qui se chargera également de les fermer.
+La location peut être sporadique ou régulière. Contactez-nous pour demander les prix (<a href="mailto:verdel8@bullenetwork.ch">verdel8@bullenetwork.ch</a>).
 
 ### N’hésitez pas à nous contacter pour plus détails sur l’équipement des salles ou pour tout autre demande d’information.
